@@ -11,7 +11,7 @@
 
 ### Клонирование репозитория
 ```
-git clone https://github.com/Hoyper/clipflow.git
+git clone https://github.com/Hoyper/ServiceDesk.git
 ```
 
 ### Создание файла `.env`
